@@ -1,5 +1,7 @@
 # NSFW Prompt Detection
 
+**Goal:** Detect NSFW prompts before generating any image.
+
 ### Related Links
 
 - [https://github.com/LAION-AI/CLIP-based-NSFW-Detector](https://github.com/LAION-AI/CLIP-based-NSFW-Detector)
