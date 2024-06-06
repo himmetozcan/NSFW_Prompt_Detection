@@ -1,6 +1,6 @@
 # NSFW Prompt Detection
 
-**Goal:** Detect NSFW prompts before generating any image.
+**Goal:** Detect NSFW prompts before generating any image using Stable Diffusion.
 
 ### Related Links
 
